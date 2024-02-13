@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(145, 95, 116);
+}
+
+
+li a{
+    color: rgb(202, 41, 65);
+    
+}
+
+.recipe{
+    background-color: rgba(53, 30, 62, 0.733);
+}
+
+mark{
+    background-color: rgb(173, 169, 49);
+}
